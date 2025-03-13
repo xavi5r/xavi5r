@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  [![Spotify](https://spotify.cujo.app/)]([https://open.spotify.com/user/USER_NAME](https://open.spotify.com/user/8qtq7yn91e4m6b3dithp3w901?si=1a097c82051c4758))
+  [![Spotify](https://spotify.cujo.app/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/8qtq7yn91e4m6b3dithp3w901?si=1a097c82051c4758)
 </div>

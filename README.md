@@ -9,8 +9,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/xavi5r/xavi5r/blob/output/github-snake-dark.svg)<br>
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ![snake gif](https://github.com/xavi5r/xavi5r/blob/output/github-snake-dark.svg)
   
 </div>
 
